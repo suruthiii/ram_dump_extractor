@@ -1,6 +1,6 @@
 # Memory Analysis Workflow
 
-This repository contains scripts to extract process information from memory dumps using Volatility 3 and convert the output into structured JSON events.
+This repository contains scripts to extract process information from memory dumps using Volatility 3 and convert the output into structured JSON (CASE Standard) events.
 
 ---
 
